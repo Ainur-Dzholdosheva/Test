@@ -26,5 +26,3 @@ class Plombir(Icecream):
 
 t=Plombir("dsdsdfsf", 45)
 print(t)
-
-#sdjfnksjdfskdfsk
